@@ -980,6 +980,12 @@ footer.copyright a{
 
 
 @media(max-width:992px){
+
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
     .nav-trigger{
         display: block;
     }
@@ -1017,6 +1023,13 @@ footer.copyright a{
 }
 
 @media (max-width:768px){
+
+
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
     .meal{
         flex-direction: column;
     }
@@ -1048,6 +1061,13 @@ footer.copyright a{
 }
 
 @media (max-width:576px){
+
+
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
     header.hero .hero-image{
         right: -240px;
         top: 120px;
